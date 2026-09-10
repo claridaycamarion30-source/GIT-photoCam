@@ -1,8 +1,2 @@
-[nix]
-channel = "stable-25_05"
-
-[agent]
-expertMode = true
-
 [run]
-command = "python -m http.server 8080"
+command = ""
