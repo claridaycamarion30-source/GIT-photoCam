@@ -1,5 +1,2 @@
-[run]
-command = "python -m http.server 8080"
-
-[web]
+run = "python -m http.server 8080"
 port = 8080
