@@ -1,5 +1,9 @@
 language = "nodejs"
 run = "npx serve ."
+modules = ["web"]
 
 [web]
 port = 8080
+
+[nix]
+channel = "stable-25_05"
