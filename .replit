@@ -1,1 +1,4 @@
-run = "python -m http.server 8080"
+run = "npx serve ."
+
+[web]
+port = 8080
